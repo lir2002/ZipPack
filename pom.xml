@@ -4,7 +4,7 @@
   <groupId>com.epam.ethan</groupId>
   <artifactId>ZipPack</artifactId>
   <name>Zip Package Patch</name>
-  <version>0.2.0</version>
+  <version>0.2.1</version>
   <packaging>pom</packaging>
 
   <dependencies>
